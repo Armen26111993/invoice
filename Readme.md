@@ -9,7 +9,7 @@ A simple and structured PHP project for managing invoices and invoice_items
 
 _Route examples_
 
-| Action                  | URL or CLI Example                                                                 |
+| Action                  | URL Example                                                                 |
 |-------------------------|------------------------------------------------------------------------------------|
 | Create Invoice          | http://localhost/invoice/index.php?action=createInvoice                         |
 | Get Invoice Total       | http://localhost/invoice/index.php?action=getInvoiceTotal&id=6 
